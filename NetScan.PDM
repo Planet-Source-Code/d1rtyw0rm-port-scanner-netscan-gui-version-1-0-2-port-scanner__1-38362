@@ -1,0 +1,147 @@
+[Root]
+Most Recent Package=NetScan GUI-Version 1.0.2
+
+
+[Package|NetScan GUI-Version 1.0.2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Package
+
+[Package|NetScan GUI-Version 1.0.2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|NetScan GUI-Version 1.0.2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|NetScan GUI-Version 1.0.2|Files Found]
+
+[Package|NetScan GUI-Version 1.0.2|Files Released]
+
+[Package|NetScan GUI-Version 1.0.2|Missing Dependency Information]
+C:\WINDOWS\SYSTEM32\d1rtyBOX.ocx=
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\InternetTools.dll=
+
+[Package|NetScan GUI-Version 1.0.2|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM32\mswinsck.ocx=
+C:\WINDOWS\SYSTEM32\Mscomctl.ocx=
+
+[Package|NetScan GUI-Version 1.0.2|Files Added]
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Comp.bmp=
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\FTP.bmp=
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\HTTP.bmp=
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\https.bmp=
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Orb.bmp=
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\PORTS.BMP=
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\smtp.bmp=
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\SQL.bmp=
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Title1.bmp=
+
+[Package|NetScan GUI-Version 1.0.2|Files Removed]
+
+[Package|NetScan GUI-Version 1.0.2|Files In Project]
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\NetScan.exe=Yes
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM32\oleaut32.dll=Yes
+C:\WINDOWS\SYSTEM32\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM32\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\VB6FR.DLL=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\InternetTools.dll=Yes
+C:\WINDOWS\SYSTEM32\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSCMCFR.DLL=Yes
+C:\WINDOWS\SYSTEM32\d1rtyBOX.ocx=Yes
+C:\WINDOWS\SYSTEM32\mswinsck.ocx=Yes
+C:\WINDOWS\SYSTEM32\WINSKFR.DLL=Yes
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM32\CMDLGFR.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Comp.bmp=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\FTP.bmp=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\HTTP.bmp=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\https.bmp=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Orb.bmp=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\PORTS.BMP=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\smtp.bmp=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\SQL.bmp=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Title1.bmp=Yes
+
+[Package|NetScan GUI-Version 1.0.2|Configure Registry Files]
+Applicable=No
+
+[Package|NetScan GUI-Version 1.0.2|Configure Remote Servers]
+Applicable=No
+
+[Package|NetScan GUI-Version 1.0.2|Install Locations]
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\NetScan.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\VB6FR.DLL=$(WinSysPath)
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\InternetTools.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\d1rtyBOX.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\WINSKFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\CMDLGFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Comp.bmp=$(AppPath)\Ico
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\FTP.bmp=$(AppPath)\Ico
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\HTTP.bmp=$(AppPath)\Ico
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\https.bmp=$(AppPath)\Ico
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Orb.bmp=$(AppPath)\Ico
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\PORTS.BMP=$(AppPath)\Ico
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\smtp.bmp=$(AppPath)\Ico
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\SQL.bmp=$(AppPath)\Ico
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Title1.bmp=$(AppPath)\Ico
+
+[Package|NetScan GUI-Version 1.0.2|Configure Shared Files]
+Applicable=Yes
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\NetScan.exe=No
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Comp.bmp=No
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\FTP.bmp=No
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\HTTP.bmp=No
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\https.bmp=No
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Orb.bmp=No
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\PORTS.BMP=No
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\smtp.bmp=No
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\SQL.bmp=No
+Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Ico\Title1.bmp=No
+
+[Package|NetScan GUI-Version 1.0.2|Distribution]
+Type=single
+Size=
+Title=NetScan GUI-Version 1.0.2
+
+[Package|NetScan GUI-Version 1.0.2|IconGroups]
+Group0=NetScan GUI-Version 1.0.2
+PrivateGroup0=Faux
+Parent0=$(Programs)
+
+[Package|NetScan GUI-Version 1.0.2|NetScan GUI-Version 1.0.2]
+Icon1=NetScan.exe
+Title1=NetScan GUI-Version 1.0.2
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|NetScan GUI-Version 1.0.2|Package]
+PackageFolder=Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Package
+ProjectFolder=Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan
+ServerSideCab=
+File1=Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Package\setup.exe
+File2=Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Package\Setup.Lst
+File3=Z:\-=CoderZ=-\My Project\VB\-= P.W.A =-\NetScan\Package\NetScan.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
